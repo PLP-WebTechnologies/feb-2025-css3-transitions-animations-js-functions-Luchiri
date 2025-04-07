@@ -1,23 +1,13 @@
 # CSS3 Transitions, Animations, and Advanced JavaScript Functions
+This project demonstrates how to use CSS animations, JavaScript functions for dynamic behaviour, and local storage to persist user preferences. The webpage includes buttons to trigger animations and save user preferences. regarding the animation state.
 
-## Objectives
+## Features
 
-Create smooth CSS transitions and animations.
-Use JavaScript functions for dynamic behavior.
-Implement local storage for data persistence.
+- CSS Animation - The #box element to move back and forth when triggered by a button.
+- Local Storage - The user's animation prefernce is saved in.
+- User Interaction - Users can trigger the animation and save their preference using interactive buttons.
 
-## Instructions
-Add CSS animations to elements like buttons or images.
-
->[!NOTE]
-> - Write a JavaScript function that:
-> - Stores and retrieves user preferences using localStorage.
-> - Implements an animation triggered by user actions.
-
-## Tasks
-
-Create a CSS animation.
-Store data in localStorage.
-Apply JavaScript to trigger animations.
-
-Happy Coding! 💻✨
+## Technologies Used
+- HTML -Used to structure the webpage and create the buttons and animation container.
+- CSS - Used to create smooth transitions and define keyframe animations.
+- JavaScript - Used to manage user interactions, trigger animations, and store/retrieve preferences in localStorage.
